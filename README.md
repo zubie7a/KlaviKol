@@ -10,5 +10,5 @@ Open Source app that aims to teach children to play the piano, or incite them to
 _**Klavikol**_: (From these German words)  
 *Klavi-atur* - A computer Keyboard  
 *Klavi-kord* - A kind of stringed Piano  
-The MIDI keyboard is like a piano, but also a computer keyboard, hence Klavi is the intersection  
-*Kol* - sounds like Color, K to match the 'Klavi'
+The MIDI keyboard is like a piano, but also a computer keyboard, hence _**Klavi**_ is the intersection  
+_**Kol**_ - sounds like Color, K to match the 'Klavi'
