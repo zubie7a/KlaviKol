@@ -14,7 +14,7 @@ The MIDI keyboard is like a piano, but also a computer keyboard, hence _**Klavi*
 _**Kol**_ - sounds like Color, _**K**_ to match the 'Klavi'
 
 ###Freestyle Mode
-[![](https://raw2.github.com/Zubieta/KlaviKol/master/Screenshots/Screen_Freestyle.png)](https://www.youtube.com/watch?v=-3AHbctIuJs)
+[![](https://github.com/Zubieta/KlaviKol/blob/master/Screenshots/Screen_Freestyle.png?raw=true)](https://www.youtube.com/watch?v=-3AHbctIuJs)
 
 ###Practice Mode
-[![](https://raw2.github.com/Zubieta/KlaviKol/master/Screenshots/Screen_Practice.png)](https://www.youtube.com/watch?v=a9lvIrV3YzQ)
+[![](https://github.com/Zubieta/KlaviKol/blob/master/Screenshots/Screen_Practice.png?raw=true)](https://www.youtube.com/watch?v=a9lvIrV3YzQ)
