@@ -88,6 +88,11 @@ public class Window extends PApplet {
             return;
         }
         char x = e.getKey();
+        if (x >= 'a' && x <= 'z') {
+        	x = (char) ((x - 'a') + '0');
+        	x -= 20;
+            noteOn(1, x + 48, 100);
+        }
         if (x >= '0' && x <= '9') {
             if (x == '0')
                 x += 10;
