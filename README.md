@@ -11,7 +11,7 @@ _**Klavikol**_: (From these German words)
 *Klavi-atur* - A computer Keyboard  
 *Klavi-kord* - A kind of stringed Piano  
 The MIDI keyboard is like a piano, but also a computer keyboard, hence _**Klavi**_ is the intersection  
-_**Kol**_ - sounds like Color, _**K**_ to match the 'Klavi'
+_**Kol**_ - sounds like Color, _**K**_ to match the *'Klavi'*
 
 ###Freestyle Mode
 [![](https://github.com/Zubieta/KlaviKol/blob/master/Screenshots/Screen_Freestyle.png?raw=true)](https://www.youtube.com/watch?v=-3AHbctIuJs)
