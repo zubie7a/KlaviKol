@@ -15,4 +15,4 @@ _**Kol**_ - sounds like Color, _**K**_ to match the *'Klavi'*
 
 | Freestyle Mode | Practice Mode |
 | --- | --- |
-| [![](https://github.com/Zubieta/KlaviKol/blob/master/Screenshots/Screen_Freestyle.png?raw=true)](https://www.youtube.com/watch?v=-3AHbctIuJs) | [![](https://github.com/Zubieta/KlaviKol/blob/master/Screenshots/Screen_Practice.png?raw=true)](https://www.youtube.com/watch?v=a9lvIrV3YzQ) |
+| [![](https://github.com/zubie7a/KlaviKol/blob/master/Screenshots/Screen_Freestyle.png?raw=true)](https://www.youtube.com/watch?v=-3AHbctIuJs) | [![](https://github.com/zubie7a/KlaviKol/blob/master/Screenshots/Screen_Practice.png?raw=true)](https://www.youtube.com/watch?v=a9lvIrV3YzQ) |
